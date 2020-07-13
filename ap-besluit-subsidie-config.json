@@ -5,7 +5,7 @@
   "publicatiedatum": "TBD",
   "type_toepassing": "TBD",
   "categorie": "Vocabularium & applicatieprofielen",
-  "description-file" : "ap-besluit-subsidie.md",
+  "description_file" : "ap-besluit-subsidie.md",
   "specificatiedocument": [
     {
       "naam": "Subsidieregister",
