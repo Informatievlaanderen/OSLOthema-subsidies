@@ -1,11 +1,12 @@
 {
   "naam": "Vocabularium Subsidies",
+  "rapport" : "",
   "verantwoordelijke_organisatie": "Agentschap Binnenlands Bestuur",
   "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO001835",
   "publicatiedatum": "TBD",
   "type_toepassing": "TBD",
   "categorie": "Vocabularium & applicatieprofielen",
-  "description_file" : "voc-subsidie.md",
+  "beschrijving" : "voc-subsidie.md",
   "specificatiedocument": [
     {
       "naam": "Vocabularium Subsidie",
