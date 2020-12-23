@@ -1,6 +1,6 @@
 {
   "naam": "Vocabularium Subsidies",
-  "rapport" : "",
+  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/reverseengineeredOnlyForContributions/subsidie.jsonld",
   "verantwoordelijke_organisatie": "Agentschap Binnenlands Bestuur",
   "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO001835",
   "publicatiedatum": "TBD",
